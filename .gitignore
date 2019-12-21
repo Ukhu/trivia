@@ -1,0 +1,20 @@
+# Environmental variables
+.env
+
+# VSCode related files and directories
+.vscode/
+trivia.code-workspace
+
+# Auto generated folder
+__pycache__/
+backend/__pycache__/
+backend/flaskr/__pycache__/
+
+# SQL queries
+query.txt
+
+# Virtual env folder
+env/
+
+# node modules
+frontend/node_modules/
